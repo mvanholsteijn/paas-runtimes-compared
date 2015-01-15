@@ -1,0 +1,3 @@
+[submodule "dropwizard-helloworld"]
+	path = dropwizard-helloworld
+	url = https://github.com/sullis/dropwizard-helloworld.git
